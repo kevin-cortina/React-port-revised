@@ -13,7 +13,7 @@ function Projects () {
   return (  
 <section className="projects-box-section">
     <section id="project-1">
-        <h4 id="project-header"> Note Taker</h4>
+        <h4 id="project-header">NOTE TAKER</h4>
         <section className="projectCon">
             <a href="https://github.com/kevin-cortina/Note-taker-new" target="_blank" rel="noopener noreferrer" className="Port-img-3"> 
             <img className="Port-img-3" src={project1} alt="PLACE HOLDER 1"/>            
@@ -29,7 +29,7 @@ function Projects () {
         </section>
     </section>
         <section id="project-2">
-            <h4 id="project-header">Employee Management System</h4>
+            <h4 id="project-header">EMPLOYEE MANAGEMENT SYSTEM</h4>
             <section className="projectCon">
             <a href="https://github.com/kevin-cortina/Employee_Management_System" target="_blank" rel="noopener noreferrer"> 
             <img className="Port-img-3" src={project2} alt="PLACE HOLDER 1" />
@@ -44,7 +44,7 @@ function Projects () {
         </section>
         
         <section id="project-3">
-            <h4 id="project-header">Weather Dashboard</h4>
+            <h4 id="project-header">WEATHER DASHBOARD</h4>
             <section className="projectCon">
             <a href="https://github.com/kevin-cortina/Weather-Dashboard" target="_blank" rel="noopener noreferrer"> 
             <img className="Port-img-3" src={project3} alt="PLACE HOLDER 1" />
@@ -59,7 +59,7 @@ function Projects () {
         </section>
 
         <section id="project-4">
-         <h4 id="project-header"> InterActor </h4>
+         <h4 id="project-header">INTERACTOR</h4>
             <section className="projectCon">
             <a href="https://github.com/kevin-cortina/GroupProject2-Old" target="_blank" rel="noopener noreferrer"> 
             <img className="Port-img-3" src={project4} alt="PLACE HOLDER 1" />

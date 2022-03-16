@@ -36,6 +36,7 @@
 
     }
 
+  /*Header Img  */
   img.skylineHead {
     max-width: 100%;
   }
@@ -45,7 +46,6 @@
     position: relative;
     width: 80%;
     margin-top: 1%;
-    margin-left: 20%;
     margin-bottom: 1%;
   }
 
@@ -104,6 +104,7 @@
   /*style code for box that holds text over images*/
   h4#project-header{
     position: relative;
+    margin-top: 2%;
     margin-left: 10px;
     margin-right: 100px;
     background-color: black;
@@ -141,6 +142,11 @@
     margin-left: 15px;
     margin-right: 50px;
    }  
+/* RESUME SECTION */
+   /* Descriptions Code */
+  div#description {
+    margin-left: 3%;
+  }
 
  /* CONTACT PAGE SECTION */
   /*style code for the contact information section*/
@@ -153,6 +159,7 @@
     text-decoration:none;
     color:white;
   } 
+
 
 /* MOBILE USE SECTION */
   /*when screen is at 600px  */

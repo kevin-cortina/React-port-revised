@@ -10,7 +10,6 @@ const ImageSlider =({ slides }) => {
         return null;
         // sixteen:twentyseven
     }
-}
 return (
     <section className='slider'>
         <FaArrowAltCircleLeft className = 'left-arrow'/>
@@ -20,3 +19,4 @@ return (
         })}
     </section>
 )
+    }
